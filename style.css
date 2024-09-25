@@ -1,0 +1,12 @@
+*{
+    background-color: rgba(247, 247, 247, 0.616);
+}
+
+.cabeçario{
+    height: 0.5px; /* largura da lnha*/
+    background-color: rgba(214, 214, 214, 0.411); /*cor da linha*/
+    width: 100%; /*comprimento conforme a página */
+    margin: 10px 0; /*Espaçamento acima e abaixo da linha*/
+    position: relative;
+    top: 40px; /*Posição*/
+}
