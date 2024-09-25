@@ -1,5 +1,15 @@
-*{
+* {
+    box-sizing: border-box; /* Para que o padding e a border não aumentem a largura total */
+}
+
+body {
     background-color: rgba(247, 247, 247, 0.616);
+    margin: 0; /* Remove margens padrão do body */
+    padding: 0; /* Remove paddings padrão do body */
+    display: flex; /* Flexbox para centralizar */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Altura total da viewport */    background-color: rgba(247, 247, 247, 0.616);
 }
 
 .cabeçario{
