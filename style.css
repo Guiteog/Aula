@@ -12,7 +12,7 @@ body {
     height: 100vh; /* Altura total da viewport */    background-color: rgba(247, 247, 247, 0.616);
 }
 
-.cabecalho { /* Corrigido para "cabecalho" */
+.cabecalho { 
     text-align: center; /* Centraliza o texto dentro do cabeçalho */
     margin: 20px 0; /* Espaçamento acima e abaixo do cabeçalho */
 }
