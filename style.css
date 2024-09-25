@@ -21,7 +21,7 @@ body {
     height: 0.5px; /* Altura da linha */
     background-color: rgba(214, 214, 214, 0.411); /* Cor da linha */
     width: 100%; /* Largura total */
-    margin: 10px 0; /* Espaçamento acima e abaixo da linha */
+    margin:20px 10; /* Espaçamento acima e abaixo da linha */
 }
 
 #Titulo {
